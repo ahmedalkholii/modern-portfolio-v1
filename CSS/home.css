@@ -47,8 +47,8 @@
     
     /* Icons */
     --Sun: url("../Images/icons/Dark-Sun.webp");
-    --Github: url("../Images/icons/dark-Github.webp");
-    --Linkedin: url("../Images/icons/dark-LinkedIn.webp");
+    --Github: url("../Images/icons/Dark-Github.webp");
+    --Linkedin: url("../Images/icons/Dark-LinkedIn.webp");
     --Logo: url("../Images/icons/small-light.webp");
     --footer-logo: url("../Images/icons/large-light.webp");
 }
@@ -106,9 +106,9 @@ html.light {
     --dark-white: rgba(255, 255, 255, 70%);
 
     /* Icons */
-    --Sun: url("../Images/icons/light-Sun.webp");
-    --Github: url("../Images/icons/light-Github.webp");
-    --Linkedin: url("../Images/icons/light-LinkedIn.webp");
+    --Sun: url("../Images/icons/Light-Sun.webp");
+    --Github: url("../Images/icons/Light-Github.webp");
+    --Linkedin: url("../Images/icons/Light-LinkedIn.webp");
     --Logo: url("../Images/icons/small-dark.webp");
     --footer-logo: url("../Images/icons/large-dark.webp");
 }
